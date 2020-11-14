@@ -1,6 +1,3 @@
-#Just adding this comment for no reason
-
-
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
